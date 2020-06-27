@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://brendagold.github.io/vidly/static/css/main.ddfc707c.chunk.css",
+    "main.js": "https://brendagold.github.io/vidly/static/js/main.f73e4eb7.chunk.js",
+    "main.js.map": "https://brendagold.github.io/vidly/static/js/main.f73e4eb7.chunk.js.map",
+    "runtime-main.js": "https://brendagold.github.io/vidly/static/js/runtime-main.1f4ffcc9.js",
+    "runtime-main.js.map": "https://brendagold.github.io/vidly/static/js/runtime-main.1f4ffcc9.js.map",
+    "static/css/2.e5ec43df.chunk.css": "https://brendagold.github.io/vidly/static/css/2.e5ec43df.chunk.css",
+    "static/js/2.2c4206d6.chunk.js": "https://brendagold.github.io/vidly/static/js/2.2c4206d6.chunk.js",
+    "static/js/2.2c4206d6.chunk.js.map": "https://brendagold.github.io/vidly/static/js/2.2c4206d6.chunk.js.map",
+    "index.html": "https://brendagold.github.io/vidly/index.html",
+    "precache-manifest.b657888013be60af5e0dab0568594cc9.js": "https://brendagold.github.io/vidly/precache-manifest.b657888013be60af5e0dab0568594cc9.js",
+    "service-worker.js": "https://brendagold.github.io/vidly/service-worker.js",
+    "static/css/2.e5ec43df.chunk.css.map": "https://brendagold.github.io/vidly/static/css/2.e5ec43df.chunk.css.map",
+    "static/css/main.ddfc707c.chunk.css.map": "https://brendagold.github.io/vidly/static/css/main.ddfc707c.chunk.css.map",
+    "static/js/2.2c4206d6.chunk.js.LICENSE.txt": "https://brendagold.github.io/vidly/static/js/2.2c4206d6.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "https://brendagold.github.io/vidly/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f4ffcc9.js",
+    "static/css/2.e5ec43df.chunk.css",
+    "static/js/2.2c4206d6.chunk.js",
+    "static/css/main.ddfc707c.chunk.css",
+    "static/js/main.f73e4eb7.chunk.js"
+  ]
+}
