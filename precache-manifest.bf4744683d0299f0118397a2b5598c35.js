@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bbb44aad07ee770c3320e692b6d8c88",
+    "revision": "52c229e0962d654bbdc0f56db7969f99",
     "url": "https://brendagold.github.io/vidly/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://brendagold.github.io/vidly/static/css/2.e5ec43df.chunk.css"
   },
   {
-    "revision": "b5cce8479a6603502c97",
+    "revision": "82f8c6200226c2542810",
     "url": "https://brendagold.github.io/vidly/static/css/main.ddfc707c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://brendagold.github.io/vidly/static/js/2.2c4206d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5cce8479a6603502c97",
-    "url": "https://brendagold.github.io/vidly/static/js/main.93373da6.chunk.js"
+    "revision": "82f8c6200226c2542810",
+    "url": "https://brendagold.github.io/vidly/static/js/main.3050a631.chunk.js"
   },
   {
     "revision": "7cd3ef3e870d8930efc4",
