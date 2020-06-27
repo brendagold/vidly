@@ -16,9 +16,6 @@ class App extends Component {
       <React.Fragment>
         <NavBar />
         <main className="container">
-          <h1>Welcome To Vidly Movie Application</h1>
-          <p>Click Here to Start Application</p>
-          <Link to="/movies">Home Page</Link>
           <Switch>
             <Route path="/register" component={Register} />
             <Route path="/login" component={LoginForm} />
